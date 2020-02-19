@@ -1,0 +1,12 @@
+1. Steve Reich - _Music for 18 Musicians _(ECM, 1978)
+2. Gang of Four - _Entertainment! _(EMI, 1979)
+3. Can - _Future Days _(United Artists, 1973)
+4. Sly & the Family Stone - _There’s a Riot Goin’ On _(Epic, 1971)
+5. David Bowie - _Low _(RCA, 1977)
+6. Joy Division - _ Unknown Pleasures _(Factory, 1979)
+7. The Stooges - _Fun House _(Elektra, 1970)
+8. Wire - _Pink Flag _(Harvest, 1977)
+9. Miles Davis - _Get Up With It _(Columbia, 1974)
+10. Dennis Wilson - _ Pacific Ocean Blue _(Caribou, 1977)
+
+**Honorable Mentions (No Order): **The Beach Boys - _Sunflower _(Brothers/Reprise, 1970), The Beach Boys - _Surf’s Up _(Brothers/Reprise, 1971), Television - _Marquee Moon _(Elektra, 1977), David Bowie - _Heroes _(RCA, 1977), David Bowie - _Station To Station _(RCA, 1976), Jimi Hendrix - _Band of Gypsys _(Capitol, 1970), Miles Davis - _On The Corner _(Columbia, 1972), Miles Davis - _Jack Johnson _(Columbia, 1971), Pere Ubu - _The Modern Dance _(Blank, 1978), Pere Ubu - _Dub Housing _(Chrysalis Records, 1978), Devo - _Q: Are We Not Men? A: We Are Devo! _(Warner Bros, 1978)_, _Devo - _Duty Now For The Future _(Warner Bros, 1979), The Walker Brothers - _Nite Flights _[Specifically, the first four tracks are so good they warrant inclusion but the rest of the album is drivel] (GTO, 1978), Can -_ Tago Mago _(United Artists, 1971), Can - _Ege Bamyasi _(United Artists, 1972), 10cc - _The Original Soundtrack _(Mercury, 1975)
