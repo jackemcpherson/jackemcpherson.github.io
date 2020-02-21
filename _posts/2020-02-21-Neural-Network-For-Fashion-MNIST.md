@@ -113,6 +113,26 @@ print(f"Model is {round(score*100,2)}% accurate")
 ```
 
 Which returns:
->>Model is 85.55% accurate
+>Model is 85.55% accurate
 
 Slightly worse than our training result.
+
+## Confusion Matrix
+
+We can also visualise these results as a confusion matrix to review which classes are frequently confused:
+```python
+plt.figure(figsize=(10,10))
+sns.set(style="whitegrid", context="notebook")
+
+y_guess = [LABELS[x] for x in net.predict_classes(x_test)]
+y_true = [LABELS[x] for x in y_test]
+
+cm = confusion_matrix(y_true, y_guess, normalize=None)
+ax = sns.heatmap(cm, annot=True, cmap="Blues", fmt="d", xticklabels=LABELS, yticklabels=LABELS, cbar=False)
+```
+Which outputs:
+![Confusion Matrix](https://github.com/jackemcpherson/jackemcpherson.github.io/blob/master/images/Confusion%20(1).png)
+
+This shows us that the most frequently confused classes are "Bag" and "Shirt"
+
+*I will revisit this model in a future post*
