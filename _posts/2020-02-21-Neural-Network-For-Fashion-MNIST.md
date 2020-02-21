@@ -86,7 +86,7 @@ net.fit(x_train, y_train, epochs=10, batch_size=25, callbacks=[tensorboard_callb
 ```
 This should output something like:
 
-![First Run Output](https://github.com/jackemcpherson/jackemcpherson.github.io/blob/master/images/NN_Output.JPG)
+![First Run Output](https://raw.githubusercontent.com/jackemcpherson/jackemcpherson.github.io/master/images/NN_Output.JPG)
 
 Considering the benchmarks, 88% accuarcy is not bad!
 
@@ -104,7 +104,7 @@ def ShowPrediction(test):
 
 If we try this function on `x_test[666]` we should see:
 
-![Test Item 666](https://github.com/jackemcpherson/jackemcpherson.github.io/blob/master/images/Dress.PNG)
+![Test Item 666](https://raw.githubusercontent.com/jackemcpherson/jackemcpherson.github.io/master/images/Dress.PNG)
 
 This would seem correct. After trying a few examples, let's move on to:
 ```python
@@ -131,7 +131,7 @@ cm = confusion_matrix(y_true, y_guess, normalize=None)
 ax = sns.heatmap(cm, annot=True, cmap="Blues", fmt="d", xticklabels=LABELS, yticklabels=LABELS, cbar=False)
 ```
 Which outputs:
-![Confusion Matrix](https://github.com/jackemcpherson/jackemcpherson.github.io/blob/master/images/Confusion%20(1).png)
+![Confusion Matrix](https://raw.githubusercontent.com/jackemcpherson/jackemcpherson.github.io/master/images/Confusion%20(1).png)
 
 This shows us that the most frequently confused classes are "Bag" and "Shirt"
 
