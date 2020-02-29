@@ -43,8 +43,11 @@ We can now visualise the moves on the following graph. Red markers indicate a BU
 ```python
 SMACStock.plot("AAPL")
 ```
+![Graph](https://raw.githubusercontent.com/jackemcpherson/jackemcpherson.github.io/master/images/Screenshot_2020-02-29%20Google%20Colaboratory.png)
+
 We can also export this as a pandas dataframe to visualise elsewhere.
 
 ```python
 SMACStock.check("AAPL")
 ```
+![Output](https://raw.githubusercontent.com/jackemcpherson/jackemcpherson.github.io/master/images/Screenshot_2020-02-29%20Google%20Colaboratory(1).png)
