@@ -1,6 +1,6 @@
-I have been constantly re-writing the same code to do a quick [Simple Moving Average (SMAC)](https://en.m.wikipedia.org/wiki/Moving_average_crossover) analysis of a stock price for too long.
+I have been constantly re-writing the same code to do a quick [Simple Moving Average Crossover (SMAC)](https://en.m.wikipedia.org/wiki/Moving_average_crossover) analysis of a stock price for too long.
 
-I've written the below class to do this in one cell. All you need to do is supply the stoack ticker (e.g. "AAPL") and the class will produce either a SMAC dataset or a plot showing a simple implementation of this trading strategy.
+I've written the below class to do this in one cell. All you need to do is supply the stock ticker (e.g. "AAPL") and the class will produce either a SMAC dataset or a plot showing a simple implementation of this trading strategy.
 
 ```python
 import pandas as pd
