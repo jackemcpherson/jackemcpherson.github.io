@@ -109,4 +109,4 @@ print(f"Model is {round(score*100,2)}% accurate")
 
 Adding these 2 layers to the model increase the accuracy to 90.38%
 
-![Score](https://raw.githubusercontent.com/jackemcpherson/jackemcpherson.github.io/master/images/Score.png)
+![Score](https://raw.githubusercontent.com/jackemcpherson/jackemcpherson.github.io/master/images/Score.PNG)
