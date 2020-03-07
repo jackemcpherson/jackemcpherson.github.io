@@ -22,12 +22,13 @@ use_math: True
 google_analytics:
 
 # Everything below here can be ignored, unless you want to change the theme entirely
-theme: minima
+remote_theme: "mmistakes/minimal-mistakes@4.18.1"
 
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
+  - jekyll-include-cache
 
 titles_from_headings:
   enabled:     true
